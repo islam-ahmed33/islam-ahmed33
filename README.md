@@ -1,11 +1,11 @@
-## Hi there 👋, I am Islam Ahmed
-### I am Software Engineer intern & Cs student 
+# Hi there 👋, I am Islam Ahmed
+### I am Software Engineer inte 
 I'm interested in software engineering development 
 
 #### Skills:
 * C/ C++/ C#/ Python
 * 💻 HTML, CSS, JS
-# -
+
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning computer science, Software engineering & Web development  
 - 📫 How to reach me: eslamaborayah@gmail.com 
