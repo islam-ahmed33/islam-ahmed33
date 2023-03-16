@@ -1,12 +1,11 @@
-### Hi there 👋
-
-### Hi there 👋, I am @islam-ahmed33
-#### I am Software Engineer intern & Cs student 
+## Hi there 👋, I am @islam-ahmed33
+### I am Software Engineer intern & Cs student 
 I'm interested in software engineering development 
 
 Skills:  JS / HTML / CSS/ C/ C++/ C#/ Python
 
-- 🌱 I’m currently learning Software engineering & Web development  
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning computer science, Software engineering & Web development  
 - 📫 How to reach me: eslamaborayah@gmail.com 
 
 
