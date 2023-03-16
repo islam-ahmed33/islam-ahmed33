@@ -2,7 +2,10 @@
 ### I am Software Engineer intern & Cs student 
 I'm interested in software engineering development 
 
-Skills:  JS / HTML / CSS/ C/ C++/ C#/ Python
+####Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
 
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning computer science, Software engineering & Web development  
